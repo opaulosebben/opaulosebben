@@ -2,7 +2,7 @@
 Currently a student of Information Systems at UNISINOS University, located in São Leopoldo. I am also a professional with more than 10 years of experience in the computer sector, primarily focused on support.
 
 ### About Me
--👨‍🎓 Student of Information Systems at UNISINOS
+- 👨‍🎓 Student of Information Systems at UNISINOS
 - 🧑‍💻 Computer Technician graduated from Q.I. Schools and Colleges
 - 💼 Professional experience of 10 years in the computer sector
 - 🌐 Working to enhance my skills in programming
