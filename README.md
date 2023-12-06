@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello!
+Currently a student of Information Systems at UNISINOS University, located in São Leopoldo. I am also a professional with more than 10 years of experience in the computer sector, primarily focused on support.
 
-<!--
-**opaulosebben/opaulosebben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+-👨‍🎓 Student of Information Systems at UNISINOS
+- 🧑‍💻 Computer Technician graduated from Q.I. Schools and Colleges
+- 💼 Professional experience of 10 years in the computer sector
+- 🌐 Working to enhance my skills in programming
 
-Here are some ideas to get you started:
+### Interests and Activities
+- 🖥️ Focused on software development and programming
+- 🚀 Constantly seeking to learn and apply new technologies
+- 📚 Interested in areas such as web development and JAVA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+🌱 Exploring personal projects to apply and expand my knowledge
+
+Feel free to explore my repositories and get in touch if you're interested in collaborating or exchanging experiences.
